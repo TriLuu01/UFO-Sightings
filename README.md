@@ -21,3 +21,6 @@ Using d3 to Make an event listener for multiple changes on 'input' tag area, the
 - Mulitple filtered by date on 1/1/2020 and City is elcajon:
 
 ![filtered_By_Date_and_City](/Results/Challenge_filtered_by_Date_City.PNG)
+
+## Further Recommendation
+- Could be more organized by cutting out the unnecessary data show on the website. 
